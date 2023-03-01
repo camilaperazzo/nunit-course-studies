@@ -1,0 +1,15 @@
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\Count.exe
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\Count.deps.json
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\Count.runtimeconfig.json
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\Count.dll
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\ref\Count.dll
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\bin\Debug\net6.0\Count.pdb
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.AssemblyInfoInputs.cache
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.AssemblyInfo.cs
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.dll
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\ref\Count.dll
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.pdb
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.genruntimeconfig.cache
+C:\Users\Midiavox\Documents\Curso de Testes\Banco\Count\obj\Debug\net6.0\Count.csproj.AssemblyReference.cache

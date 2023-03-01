@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d8b6e58-3cef-40a8-9c6f-6bb61dbb24b0": {
+      "ProjectGuid": "9d8b6e58-3cef-40a8-9c6f-6bb61dbb24b0",
+      "DisplayName": "Conta",
+      "ColorIndex": 0
+    },
+    "b9ef3665-0f45-4daa-85d8-85ca42360493": {
+      "ProjectGuid": "b9ef3665-0f45-4daa-85d8-85ca42360493",
+      "DisplayName": "ContaTeste",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "81d53eaf-cab2-4cd4-b476-d7dda1a7ca1c": {
+      "ProjectGuid": "81d53eaf-cab2-4cd4-b476-d7dda1a7ca1c",
+      "DisplayName": "ContaCamila",
+      "ColorIndex": 2
+    },
+    "527e4bc1-5a2a-4b46-923a-a7572e42ff80": {
+      "ProjectGuid": "527e4bc1-5a2a-4b46-923a-a7572e42ff80",
+      "DisplayName": "Count",
+      "ColorIndex": 3
+    },
+    "806f8029-5b1b-465b-b2b4-2ae91b56056c": {
+      "ProjectGuid": "806f8029-5b1b-465b-b2b4-2ae91b56056c",
+      "DisplayName": "ContaTeste.NUnit",
+      "ColorIndex": 4
+    },
+    "349e2801-d464-4bf7-aad3-928a2db7909c": {
+      "ProjectGuid": "349e2801-d464-4bf7-aad3-928a2db7909c",
+      "DisplayName": "TesteConta",
+      "ColorIndex": 5
+    },
+    "0a5eec40-047b-4e53-9b2a-f054455aa5a2": {
+      "ProjectGuid": "0a5eec40-047b-4e53-9b2a-f054455aa5a2",
+      "DisplayName": "ContaTeste.Mock",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
